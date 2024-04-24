@@ -69,7 +69,7 @@ h1{
       }}
       
 body {
-                      font-family:'Wendy One', sans-serif; background-image:url("http://Wallpaper-House.com/data/out/7/wallpaper2you_144984.jpg");
+    font-family:'Wendy One', sans-serif; background-image:url("http://Wallpaper-House.com/data/out/7/wallpaper2you_144984.jpg");
     background-size: cover ;
    background-repeat: repeat-x ;
    animation: animatedBackground 15s linear infinite; 
